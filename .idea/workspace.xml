@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="34ecddf2-df4b-40a4-8588-549f5df2b306" name="Changes" comment="store.db added">
-      <change afterPath="$PROJECT_DIR$/Customer.csv" afterDir="false" />
+    <list default="true" id="34ecddf2-df4b-40a4-8588-549f5df2b306" name="Changes" comment="project fix">
+      <change afterPath="$PROJECT_DIR$/_42_csv_to_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_43_cs_to_dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_44_csv_to_json.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_42.py" beforeDir="false" afterPath="$PROJECT_DIR$/_42.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_42.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_43.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_44.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +31,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Django/Recipe" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python._42">
+  <component name="RunManager" selected="Python._44_csv_to_json">
     <configuration name="_39" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Exercises" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -72,7 +76,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="_42" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="_42_csv_to_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -85,7 +89,51 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_42.py" />
+      <option name="SCRIPT_NAME" value="D:\Programowanie\Exercises\_42_csv_to_list.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="_43_cs_to_dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Exercises" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Dudek\PycharmProjects\pythonProject\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\Programowanie\Exercises\_43_cs_to_dict.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="_44_csv_to_json" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Exercises" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Dudek\PycharmProjects\pythonProject\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_44_csv_to_json.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -119,11 +167,15 @@
     <list>
       <item itemvalue="Python._39" />
       <item itemvalue="Python._41" />
-      <item itemvalue="Python._42" />
+      <item itemvalue="Python._43_cs_to_dict" />
+      <item itemvalue="Python._42_csv_to_list" />
+      <item itemvalue="Python._44_csv_to_json" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python._42" />
+        <item itemvalue="Python._44_csv_to_json" />
+        <item itemvalue="Python._43_cs_to_dict" />
+        <item itemvalue="Python._42_csv_to_list" />
         <item itemvalue="Python._41" />
         <item itemvalue="Python._39" />
       </list>
@@ -138,7 +190,7 @@
       <option name="presentableId" value="Default" />
       <updated>1637505400760</updated>
       <workItem from="1637505402311" duration="3682000" />
-      <workItem from="1637509141594" duration="310000" />
+      <workItem from="1637509141594" duration="4093000" />
     </task>
     <task id="LOCAL-00001" summary="40">
       <created>1637505630074</created>
@@ -161,7 +213,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637509184242</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="project fix">
+      <created>1637509753650</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1637509753650</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,12 +241,15 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="40" />
     <MESSAGE value="store.db added" />
-    <option name="LAST_COMMIT_MESSAGE" value="store.db added" />
+    <MESSAGE value="project fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="project fix" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Exercises$_39.coverage" NAME="_39 Coverage Results" MODIFIED="1637505551603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Exercises$_42.coverage" NAME="_42 Coverage Results" MODIFIED="1637509418736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercises$_44_csv_to_json.coverage" NAME="_44_csv_to_json Coverage Results" MODIFIED="1637514077747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercises$_42.coverage" NAME="_42 Coverage Results" MODIFIED="1637511377703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Exercises$_40.coverage" NAME="_40 Coverage Results" MODIFIED="1637505939572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Exercises$_41.coverage" NAME="_41 Coverage Results" MODIFIED="1637509220715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercises$_43.coverage" NAME="_43_cs_to_dict Coverage Results" MODIFIED="1637513754986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
