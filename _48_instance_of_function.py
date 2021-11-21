@@ -1,7 +1,4 @@
-import string
-
-
-def generate_cipher(alphabet, key):
+def generate_cipher(alphabet, key=2):
     cipher = ''
     for letter in alphabet:
         new_idx = (alphabet.index(letter) + key) % len(alphabet)
@@ -20,9 +17,4 @@ def encrypt(alphabet, message, key):
     return result
 
 
-def decrypt(alphabet, message, key):
-    key = -key
-    encrypt(alphabet, message, key)
-
-
-print(decrypt('taak atkatwkAt', 2))
+print(generate_cipher('Attack at dawn', 2))
