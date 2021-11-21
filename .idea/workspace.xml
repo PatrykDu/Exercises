@@ -1,21 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="34ecddf2-df4b-40a4-8588-549f5df2b306" name="Changes" comment="44">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_45_differences_in_string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_46_search_in_dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_47_szyfr_cezara.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_48_instance_of_function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customer.json" afterDir="false" />
+    <list default="true" id="34ecddf2-df4b-40a4-8588-549f5df2b306" name="Changes" comment="50">
+      <change afterPath="$PROJECT_DIR$/_51_whole_class.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_45.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_46.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_47.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_48.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_49.py" beforeDir="false" afterPath="$PROJECT_DIR$/_49.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_50.py" beforeDir="false" afterPath="$PROJECT_DIR$/_50.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_51.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -197,7 +186,7 @@
       <option name="presentableId" value="Default" />
       <updated>1637505400760</updated>
       <workItem from="1637505402311" duration="3682000" />
-      <workItem from="1637509141594" duration="9970000" />
+      <workItem from="1637509141594" duration="11287000" />
     </task>
     <task id="LOCAL-00001" summary="40">
       <created>1637505630074</created>
@@ -234,7 +223,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637514218266</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="50">
+      <created>1637520257481</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1637520257481</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -257,7 +253,8 @@
     <MESSAGE value="store.db added" />
     <MESSAGE value="project fix" />
     <MESSAGE value="44" />
-    <option name="LAST_COMMIT_MESSAGE" value="44" />
+    <MESSAGE value="50" />
+    <option name="LAST_COMMIT_MESSAGE" value="50" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Exercises$_47.coverage" NAME="_47 Coverage Results" MODIFIED="1637518924229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
