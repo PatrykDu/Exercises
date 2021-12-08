@@ -43,11 +43,22 @@ class Matrix:
 
     @property
     def is_square_matrix(self):
-        if self.n_cols == self.n_rows:
-            return True
-        else:
-            return False
+        return self.size[0] == self.size[1]
+
+    def zero(self):
+        array = [[0 for _ in range(self.n_cols)] for _ in range(self.n_rows)]
+        return Matrix(array)
+
+    def identity(self):
+        if not self.is_square_matrix:
+            return None
+        array = [[0 for _ in range(self.n_cols)] for _ in range(self.n_rows)]
+        i = 0
+        for x in range(self.n_rows):
+            array[x][i] = 1
+            i += 1
+        return array
 
 
-m = Matrix([[3, 1, 6], [5, 2, 6]])
-print(m.is_square_matrix)
+m = Matrix([[3, 1, 6], [5, 2, 6], [5, 2, 6]])
+print(m.identity())

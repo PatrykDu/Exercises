@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="34ecddf2-df4b-40a4-8588-549f5df2b306" name="Changes" comment="62">
-      <change afterPath="$PROJECT_DIR$/_71_function_of_function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_72_candlestick_chart.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_73_dict_comprehentions.py" afterDir="false" />
+    <list default="true" id="34ecddf2-df4b-40a4-8588-549f5df2b306" name="Changes" comment="73">
+      <change afterPath="$PROJECT_DIR$/_74_class_validation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_79_replace_all_items_in_list.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_71.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_72.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_73.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_74.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_75.py" beforeDir="false" afterPath="$PROJECT_DIR$/_75.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_76.py" beforeDir="false" afterPath="$PROJECT_DIR$/_76.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_77.py" beforeDir="false" afterPath="$PROJECT_DIR$/_77.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_78.py" beforeDir="false" afterPath="$PROJECT_DIR$/_78.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_79.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_80.py" beforeDir="false" afterPath="$PROJECT_DIR$/_80.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,8 +34,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Django/Recipe" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python._73_dict_comprehentions">
-    <configuration name="_70_moving_min" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python._80_identity_matrix">
+    <configuration name="_76" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Exercises" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -45,7 +48,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\Programowanie\Exercises\_70_moving_min.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_76.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -54,7 +57,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="_71_function_of_function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="_77" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Exercises" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -67,7 +70,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\Programowanie\Exercises\_71_function_of_function.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_77.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -76,7 +79,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="_72_candlestick_chart (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="_78" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Exercises" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -89,7 +92,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_72_candlestick_chart.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_78.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -98,7 +101,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="_72_candlestick_chart" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="_79_replace_all_items_in_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Exercises" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -111,7 +114,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\Programowanie\Exercises\_72_candlestick_chart.py" />
+      <option name="SCRIPT_NAME" value="D:\Programowanie\Exercises\_79_replace_all_items_in_list.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,7 +123,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="_73_dict_comprehentions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="_80_identity_matrix" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Exercises" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -133,7 +136,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\Programowanie\Exercises\_73_dict_comprehentions.py" />
+      <option name="SCRIPT_NAME" value="D:\Programowanie\Exercises\_80_identity_matrix.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -165,19 +168,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python._70_moving_min" />
-      <item itemvalue="Python._71_function_of_function" />
-      <item itemvalue="Python._72_candlestick_chart" />
-      <item itemvalue="Python._72_candlestick_chart (1)" />
-      <item itemvalue="Python._73_dict_comprehentions" />
+      <item itemvalue="Python._76" />
+      <item itemvalue="Python._77" />
+      <item itemvalue="Python._78" />
+      <item itemvalue="Python._79_replace_all_items_in_list" />
+      <item itemvalue="Python._80_identity_matrix" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python._73_dict_comprehentions" />
-        <item itemvalue="Python._72_candlestick_chart (1)" />
-        <item itemvalue="Python._72_candlestick_chart" />
-        <item itemvalue="Python._71_function_of_function" />
-        <item itemvalue="Python._70_moving_min" />
+        <item itemvalue="Python._80_identity_matrix" />
+        <item itemvalue="Python._79_replace_all_items_in_list" />
+        <item itemvalue="Python._78" />
+        <item itemvalue="Python._77" />
+        <item itemvalue="Python._76" />
       </list>
     </recent_temporary>
   </component>
@@ -195,7 +198,9 @@
       <workItem from="1637687816457" duration="5576000" />
       <workItem from="1637775692464" duration="21000" />
       <workItem from="1638377765320" duration="6740000" />
-      <workItem from="1638811693033" duration="5361000" />
+      <workItem from="1638811693033" duration="6034000" />
+      <workItem from="1638897484861" duration="6382000" />
+      <workItem from="1638986410371" duration="1840000" />
     </task>
     <task id="LOCAL-00001" summary="40">
       <created>1637505630074</created>
@@ -274,7 +279,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638384337587</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="73">
+      <created>1638818804110</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1638818804110</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -302,7 +314,8 @@
     <MESSAGE value="58" />
     <MESSAGE value="59" />
     <MESSAGE value="62" />
-    <option name="LAST_COMMIT_MESSAGE" value="62" />
+    <MESSAGE value="73" />
+    <option name="LAST_COMMIT_MESSAGE" value="73" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -322,15 +335,19 @@
     <SUITE FILE_PATH="coverage/Exercises$_44_csv_to_json.coverage" NAME="_44_csv_to_json Coverage Results" MODIFIED="1637514077747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Exercises$_48.coverage" NAME="_48 Coverage Results" MODIFIED="1637519481768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Exercises$_68.coverage" NAME="_68_csv_reader Coverage Results" MODIFIED="1638382648083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercises$_74.coverage" NAME="_74_class_validation Coverage Results" MODIFIED="1638902483478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Exercises$_42.coverage" NAME="_42 Coverage Results" MODIFIED="1637511377703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Exercises$_72_candlestick_chart__1_.coverage" NAME="_72_candlestick_chart (1) Coverage Results" MODIFIED="1638817139107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Exercises$_54_morse_class.coverage" NAME="_54_morse_class Coverage Results" MODIFIED="1637604311910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercises$_80.coverage" NAME="_80 Coverage Results" MODIFIED="1638988327815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Exercises$_62.coverage" NAME="_62 Coverage Results" MODIFIED="1637693524978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Exercises$_56.coverage" NAME="_56 Coverage Results" MODIFIED="1637608445446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Exercises$_58_pi_calculating_class.coverage" NAME="_58_pi_calculating_CLASS Coverage Results" MODIFIED="1637609872095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Exercises$_71.coverage" NAME="_71_function_of_function Coverage Results" MODIFIED="1638814544589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Exercises$_47.coverage" NAME="_47 Coverage Results" MODIFIED="1637518924229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercises$_76.coverage" NAME="_76 Coverage Results" MODIFIED="1638904425554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Exercises$_52_Morse.coverage" NAME="_52_Morse Coverage Results" MODIFIED="1637603629387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercises$_79.coverage" NAME="_79 Coverage Results" MODIFIED="1638987807929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Exercises$_70.coverage" NAME="_70 Coverage Results" MODIFIED="1638384240521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Exercises$_67.coverage" NAME="_67 Coverage Results" MODIFIED="1638379804918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Exercises$_41.coverage" NAME="_41 Coverage Results" MODIFIED="1637509220715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -339,6 +356,8 @@
     <SUITE FILE_PATH="coverage/Exercises$_46.coverage" NAME="_46 Coverage Results" MODIFIED="1637517364491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Exercises$_40.coverage" NAME="_40 Coverage Results" MODIFIED="1637505939572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Exercises$_61_binary_or.coverage" NAME="_61_binary_or Coverage Results" MODIFIED="1637693366113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercises$_75.coverage" NAME="_75 Coverage Results" MODIFIED="1638903117150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercises$_78.coverage" NAME="_78 Coverage Results" MODIFIED="1638987328331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Exercises$_59_decimal_to_binary__1_.coverage" NAME="_59_decimal_to_binary (1) Coverage Results" MODIFIED="1637689475238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Exercises$test.coverage" NAME="test Coverage Results" MODIFIED="1637689925608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Exercises$_69.coverage" NAME="_69 Coverage Results" MODIFIED="1638383797906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -349,6 +368,8 @@
     <SUITE FILE_PATH="coverage/Exercises$_57.coverage" NAME="_57 Coverage Results" MODIFIED="1637609313345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Exercises$_59.coverage" NAME="_59 Coverage Results" MODIFIED="1637689265362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Exercises$_72.coverage" NAME="_72 Coverage Results" MODIFIED="1638815097805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercises$_73_dict_comprehentions.coverage" NAME="_73_dict_comprehentions Coverage Results" MODIFIED="1638900637710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Exercises$_45.coverage" NAME="_45_differences_in_string Coverage Results" MODIFIED="1637516660959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercises$_77.coverage" NAME="_77 Coverage Results" MODIFIED="1638904526851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
