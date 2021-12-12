@@ -20,7 +20,21 @@ class Stack:
         return self._data.pop()
 
     def is_empty(self):
-        if len(self._data) == 0:
-            return True
-        else:
-            return False
+        return len(self._data) == 0
+
+
+def is_palindrome(string):
+    stack = Stack()
+    is_palindrome_flag = True
+
+    for char in string:
+        stack.push(char)
+
+    for char in string:
+        if not char == stack.pop():
+            is_palindrome_flag = False
+
+    return is_palindrome_flag
+
+
+print(is_palindrome('owoc'))

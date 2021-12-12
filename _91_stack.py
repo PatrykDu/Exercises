@@ -3,7 +3,6 @@ class EmptyStackError(Exception):
 
 
 class Stack:
-    """The simplest stack."""
 
     def __init__(self):
         self._data = []
@@ -13,14 +12,21 @@ class Stack:
 
     def push(self, item):
         self._data.append(item)
+        return self._data
 
     def pop(self):
-        if self.is_empty():
-            raise EmptyStackError('The stack is empty.')
+        if len(self._data) == 0:
+            raise EmptyStackError('The stack is empty')
         return self._data.pop()
 
-    def is_empty(self):
-        if len(self._data) == 0:
-            return True
-        else:
-            return False
+
+techs = Stack()
+techs.push('python')
+techs.push('sql')
+print(len(techs))
+
+print(techs.pop())
+
+print(len(techs))
+print(techs.pop())
+print(techs.pop())

@@ -27,16 +27,20 @@ class Stack:
             raise EmptyStackError('The stack is empty.')
         return self._data[-1]
 
-    def clear(self):
-        for item in range(len(self._data)):
-            self.pop()
+
+def transfer(stack_1, stack_2):
+    for item in range(len(stack_1)):
+        stack_2.push(stack_1.pop())
+    return stack_1, stack_2
 
 
 s1 = Stack()
 s1.push('python')
 s1.push('java')
 s1.push('c++')
-print(len(s1))
 
-s1.clear()
-print(len(s1))
+s2 = Stack()
+s2.push('sql')
+
+s1, s2 = transfer(s1, s2)
+print(len(s1), len(s2))
